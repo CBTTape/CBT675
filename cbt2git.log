@@ -1,0 +1,8 @@
+2023-08-06 06:25:07.939498 - Initialized conversion of CBT675
+2023-08-06 06:25:07.986996 - Received CBT.V505.FILE675.PDS from FILE675.XMI 
+2023-08-06 06:25:07.989543 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE675.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:25:07.990513 - Found $$INDEX.txt (text/plain) in CBT.V505.FILE675.PDS, moved to PDS/$$INDEX
+2023-08-06 06:25:07.991461 - Found @FILE675.txt (text/plain) in CBT.V505.FILE675.PDS, moved to PDS/@FILE675
+2023-08-06 06:25:07.991472 - Found READLOGP.bin containing application/octet-stream, moved to PDS/READLOGP
+2023-08-06 06:25:07.993557 - Found RIFCID63.rexx (text/plain) in CBT.V505.FILE675.PDS, moved to PDS/RIFCID63
+2023-08-06 06:25:07.994464 - Found SMF42.txt (text/plain) in CBT.V505.FILE675.PDS, moved to PDS/SMF42
