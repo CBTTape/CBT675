@@ -1,0 +1,7 @@
+2025-04-13 21:43:52.055612 - Received CBT.V508.FILE675.PDS from FILE675.XMI 
+2025-04-13 21:43:52.056538 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE675.PDS, moved to PDS/$$$#DATE
+2025-04-13 21:43:52.056632 - Found $$INDEX.txt (text/plain) in CBT.V508.FILE675.PDS, moved to PDS/$$INDEX
+2025-04-13 21:43:52.056712 - Found @FILE675.txt (text/plain) in CBT.V508.FILE675.PDS, moved to PDS/@FILE675
+2025-04-13 21:43:52.056819 - Found READLOGP.bin (application/octet-stream) in CBT.V508.FILE675.PDS, moved to PDS/READLOGP
+2025-04-13 21:43:52.056908 - Found RIFCID63.rexx (text/plain) in CBT.V508.FILE675.PDS, moved to PDS/RIFCID63
+2025-04-13 21:43:52.056993 - Found SMF42.txt (text/plain) in CBT.V508.FILE675.PDS, moved to PDS/SMF42
